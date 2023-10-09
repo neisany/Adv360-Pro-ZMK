@@ -1,9 +1,3 @@
-macro_past: macro_past{
-compatible = "zmk,behavior-macro";
-label = "macro_past";
-#binding-cells = <0>;
-bindings = <&kp LCTRL>, <&kp V>;
-};
 macro_copy: macro_copy{
 compatible = "zmk,behavior-macro";
 label = "macro_copy";
